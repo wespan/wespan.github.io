@@ -1,0 +1,3 @@
+[submodule "themes/wespan"]
+	path = themes/wespan
+	url = git@github.com:wespan/hexo-theme-wespan.git
